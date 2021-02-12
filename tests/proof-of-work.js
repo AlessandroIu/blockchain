@@ -1,4 +1,4 @@
-const Blockchain = require('./blockchain');
+const Blockchain = require('../dev/blockchain');
 const bitcoin = new Blockchain();
 
 const previousBlockHash = 'OANS49S4C6S18OIANS909A0S9NF';
