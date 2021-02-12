@@ -9,3 +9,6 @@ $ node tests/genesis-block.js
 
 To start the express server
 $ node dev/api.js
+
+To start the express server and allow it to automatically restart with nodemon
+$ npm start
